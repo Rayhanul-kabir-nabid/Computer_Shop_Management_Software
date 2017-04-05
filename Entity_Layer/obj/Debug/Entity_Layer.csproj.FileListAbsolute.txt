@@ -1,0 +1,5 @@
+E:\Code\C# practice\Software Engineering Project\Computer_Management_Software\Entity_Layer\bin\Debug\Entity_Layer.dll
+E:\Code\C# practice\Software Engineering Project\Computer_Management_Software\Entity_Layer\bin\Debug\Entity_Layer.pdb
+E:\Code\C# practice\Software Engineering Project\Computer_Management_Software\Entity_Layer\obj\Debug\Entity_Layer.dll
+E:\Code\C# practice\Software Engineering Project\Computer_Management_Software\Entity_Layer\obj\Debug\Entity_Layer.pdb
+E:\Code\C# practice\Software Engineering Project\Computer_Management_Software\Entity_Layer\obj\Debug\Entity_Layer.csprojResolveAssemblyReference.cache

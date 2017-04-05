@@ -1,0 +1,7 @@
+E:\Code\C# practice\Software Engineering Project\Computer_Management_Software\Data_Layer\bin\Debug\Data_Layer.dll
+E:\Code\C# practice\Software Engineering Project\Computer_Management_Software\Data_Layer\bin\Debug\Data_Layer.pdb
+E:\Code\C# practice\Software Engineering Project\Computer_Management_Software\Data_Layer\bin\Debug\Entity_Layer.dll
+E:\Code\C# practice\Software Engineering Project\Computer_Management_Software\Data_Layer\bin\Debug\Entity_Layer.pdb
+E:\Code\C# practice\Software Engineering Project\Computer_Management_Software\Data_Layer\obj\Debug\Data_Layer.csprojResolveAssemblyReference.cache
+E:\Code\C# practice\Software Engineering Project\Computer_Management_Software\Data_Layer\obj\Debug\Data_Layer.dll
+E:\Code\C# practice\Software Engineering Project\Computer_Management_Software\Data_Layer\obj\Debug\Data_Layer.pdb
